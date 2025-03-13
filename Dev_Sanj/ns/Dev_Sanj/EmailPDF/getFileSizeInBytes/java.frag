@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getFileSizeInBytes</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWZpbGVOYW1lID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVD
+dXJzb3IsICJmaWxlTmFtZSIgKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCg0KRmlsZSBm
+ID0gbmV3IEZpbGUoZmlsZU5hbWUpOyANCmxvbmcgZmlsZVNpemUgPSBmLmxlbmd0aCgpOw0KU3Ry
+aW5nIHM9U3RyaW5nLnZhbHVlT2YoZmlsZVNpemUpOw0KCQkvLyBwaXBlbGluZQ0KSURhdGFDdXJz
+b3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1
+dCggcGlwZWxpbmVDdXJzb3JfMSwgImZpbGVTaXplSW5CeXRlcyIsIHMpOw0KcGlwZWxpbmVDdXJz
+b3JfMS5kZXN0cm95KCk7DQoNCgk=</value>
+</Values>

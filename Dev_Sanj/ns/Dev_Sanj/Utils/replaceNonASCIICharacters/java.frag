@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">replaceNonASCIICharacters</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCgkJSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRD
+dXJzb3IoKTsNCgkJCVN0cmluZwlzdHJWYWx1ZSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVs
+aW5lQ3Vyc29yLCAic3RyVmFsdWUiICk7DQoJCQlTdHJpbmcJUmVwbGFjZVZhbHVlID0gSURhdGFV
+dGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJSZXBsYWNlVmFsdWUiICk7DQoJCXBpcGVs
+aW5lQ3Vyc29yLmRlc3Ryb3koKTsNCgkJU3RyaW5nIHN0clZhbHVlT3V0ID0gc3RyVmFsdWUucmVw
+bGFjZUFsbCggIlteXFx4MDAtXFx4N0ZdIiwgUmVwbGFjZVZhbHVlKTsNCgkJLy8gcGlwZWxpbmUN
+CgkJSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0K
+CQlJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvcl8xLCAic3RyVmFsdWVPdXQiLCBzdHJWYWx1
+ZU91dCApOw0KCQlwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsNCgk=</value>
+</Values>
